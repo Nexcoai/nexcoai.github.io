@@ -1,7 +1,7 @@
 ---
 title: nexco.ai
 layout: home
-description: Nexco helps senior professionals to take control of their careers.
+description: Nexco closes the information gap between senior professionals and those looking to deploy their talents.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Nexco.ai
 
-We help senior professionals to take control of their careers.
+Nexco closes the information gap between senior professionals and those looking to deploy their talents.
