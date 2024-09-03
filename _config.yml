@@ -1,6 +1,8 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Nexco.ai'
+domain: nexcoai.github.io
+url: https://nexcoai.github.io
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
