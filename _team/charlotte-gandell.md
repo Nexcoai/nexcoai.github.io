@@ -8,6 +8,6 @@ promoted: true
 weight: 1
 ---
 
-With 20 years experience in executive earch at Russel Reynolds, Tesco Vodafone and Nurole.
+Charlotte has over 20 years’ experience in executive search. First as a researcher in both boutique and SHREK (Russell Reynolds), before moving in-house and leading executive hiring for substantial business areas within both Tesco and Vodafone. In 2018 she joined Nurole, initially to build the Customer Success function. Charlotte took on responsibility for Product and her deep understanding of the customer and problem space gave her a unique edge. She built a substantial Product and Engineering function, which grew to 4 squads and 30 people. As part of the SLT Charlotte contributed significantly to the direction and growth of the business.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Charlotte’s product approach is defined by discovery and customer obsession. She believes in building products that solve real problems for real people. 
