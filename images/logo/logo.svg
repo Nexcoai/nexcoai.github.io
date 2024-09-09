@@ -1,8 +1,8 @@
 <svg width="460" height="130" xmlns="http://www.w3.org/2000/svg">
   <!-- Infinity symbol -->
   <path d="M 40,75 C 40,35 70,35 80,75 C 90,115 120,115 130,75 C 140,35 170,35 170,75 C 170,115 140,115 130,75 C 120,35 90,35 80,75 C 70,115 40,115 40,75 Z" 
-        fill="none" stroke="black" stroke-width="6"/>
+        fill="none" stroke="#e5261f" stroke-width="6"/>
 
   <!-- Larger and vertically aligned text "Nexco.ai" -->
-  <text x="200" y="87" font-family="Playfair Display, serif, -apple-system-ui" font-size="72" fill="black" alignment-baseline="middle">Nexco.ai</text>
+  <text x="200" y="87" font-family="Playfair Display, serif, -apple-system-ui" font-size="72" fill="#e5261f" alignment-baseline="middle">Nexco.ai</text>
 </svg>
